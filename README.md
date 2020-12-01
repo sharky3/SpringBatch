@@ -7,3 +7,7 @@ Spring Boot app for importing CSV files into DB in chunks and accessing it via R
    Успешно загруженный файл переносить в каталог processed. 
 2) REST-сервис по предоставлению в json данных из полученной таблицы
 
+# TODO
+Tests
+Logging
+Exception Handling
